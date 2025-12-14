@@ -19,3 +19,7 @@ based on selected genres.
 ## How to Run
 gcc main.c -o movie
 ./movie
+
+# Screenshots
+Output screenshots of the program execution
+are available in the screenshots folder.
