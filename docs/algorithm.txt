@@ -1,10 +1,26 @@
-            MovieMate Algorithm:
-1.Start the program
-2.Store movie names for each genre in
-arrays
-3.Display available genres to the user
-4.Accept the user’s genre choice
-5.Generate a random number
-6.Display a movie recommendation from the
-selected genre
-7.End the program
+1.Start the application.
+ 2. Display the Home Screen with "Choose Your Genre".
+3. When the user clicks "Choose Your Genre":
+   a. Display five genre options:
+      Romance, Horror, Sci-Fi, Comedy, Action.
+   b. Display Back and Home buttons.
+4. When the user selects a genre:
+   a. Hide all other genres.
+   b. Display only the selected genre’s movie list
+      containing 10 movies.
+   c. Display Back, Home, and Watch Trailer buttons.
+5. When the user selects a movie from the list:
+   a. Display movie details:
+      - Movie name
+      - Director
+      - Runtime
+      - IMDb rating
+      - Short description
+6. When the user clicks "Watch Trailer":
+   a. Open the movie trailer link in the web browser.
+7. When the user clicks "Back":
+   a. Return to the Genre Selection screen.
+8. When the user clicks "Home":
+   a. Return to the Home screen.
+9. Repeat steps until the user exits the application.
+10. End
